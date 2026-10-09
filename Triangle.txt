@@ -1,0 +1,22 @@
+First Triangle
+--------------
+Triangle name is: Unkonwn
+Triangle base is: 0.0
+Triangle height is: 0.0
+The area is: 0.0Triangle name is: Tri1
+Triangle base is: 5.0
+Triangle height is: 6.0
+The area is: 15.0Second Triangle
+--------------
+Triangle name is: Tri2
+Triangle base is: 7.3
+Triangle height is: 8.3
+The area is: 30.3Third Triangle
+--------------
+Enter triangle's name: Tri3
+Enter triangle's base: 8.5
+Enter triangle height: 10.3
+Triangle name is: Tri3
+Triangle base is: 8.5
+Triangle height is: 10.3
+The area is: 43.8
